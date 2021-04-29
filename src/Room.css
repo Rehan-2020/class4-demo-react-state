@@ -1,0 +1,22 @@
+.divider {
+    width: 25px;
+    height: auto;
+    display: inline-block;
+}
+.room {
+    height : 100vh;
+    margin: 0;
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lit {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
