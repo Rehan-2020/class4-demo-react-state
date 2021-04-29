@@ -46,7 +46,7 @@ function Room() {
         <br/>
         <button onClick={ ()=> setTemp(++temp)} >Increase temp</button> 
         <div class="divider" /> 
-        <button onClick={ ()=> setTemp(++temp)} >decrease temp</button>
+        <button onClick={ ()=> setTemp(--temp)} >decrease temp</button>
         
         <br/>
 
